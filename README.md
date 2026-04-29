@@ -7,6 +7,7 @@
 - Better text positioning
 - File Explorer upgrades (selection + interaction)
 - Bug fixes
+- And boot screen that mentions kaiman18 Studios logo
 
 
 
