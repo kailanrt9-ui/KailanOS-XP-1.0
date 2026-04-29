@@ -1,3 +1,10 @@
+## 📅 Release Schedule
+
+KailanOS XP 1.1  
+🗓️ April 29, 2026  
+⏰ 11:30 AM
+
+
 ## 🚧 Upcoming Update
 
 **KailanOS XP 1.1** releases on **April 29, 2026**
