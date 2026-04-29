@@ -3,4 +3,4 @@ Welcome to KailanOS XP with 2 apps KIE (stands for Kailan Internet Explorer) and
 and proof is:
 ## Screenshot
 
-![KailanOS XP](screenshots/os.png)
+![KailanOS XP](os.png)
