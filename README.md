@@ -1,21 +1,3 @@
-## 📅 Release Schedule
-
-KailanOS XP 1.1  
-🗓️ April 29, 2026  
-⏰ 11:30 AM
-
-
-## 🚧 Upcoming Update
-
-**KailanOS XP 1.1** releases on **April 29, 2026**
-
-### Planned Features
-- Improved UI layout
-- Better text positioning
-- File Explorer upgrades (selection + interaction)
-- Bug fixes
-- And boot screen that mentions kaiman18 Studios logo
-
 
 ## ⚠️ Warning
 
@@ -27,9 +9,9 @@ Make sure you run it on:
 - An emulator like **QEMU** (recommended)
 
 
-# KailanOS-XP-1.0
+# KailanOS-XP-1.1 (NEW VERSION YEHAW!!!)
 Welcome to KailanOS XP with 2 apps KIE (stands for Kailan Internet Explorer) and FE (stands for File Explorer) and i will update KIE to display more pages and now enjoy!
-and proof is:
+and check the release at: https://github.com/kailanrt9-ui/KailanOS-XP-1.0/releases and then look for 1.1 now proof is
 ## Screenshot
 
 ![KailanOS XP](os.png)
